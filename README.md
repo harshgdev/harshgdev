@@ -18,7 +18,7 @@
 
 - Ranked in the top 0.35% on [Blue Team Labs Online](https://blueteamlabs.online/public/user/1a238dd7483385ff40d157) in India (free tier).
   
-- Ranked among the top 20 in India on [CyberDefenders](https://cyberdefenders.org/p/G4RUD4) (free tier).
+- Ranked among the top 10 in India on [CyberDefenders](https://cyberdefenders.org/p/G4RUD4) (free tier).
   
 - Recently started exploring HackTheBox and TryHackMe platforms.
 
