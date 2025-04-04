@@ -1,5 +1,3 @@
-<h1 align="center"> Moshi Moshi 🎐 </h1>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Jersey+10&size=30&duration=4000&pause=1000&color=ffffff&center=true&vCenter=true&width=800&height=100&lines=Welcome+to+my+profile+>_<;Always+Learning!" alt="Typing SVG">
 </p>
