@@ -8,7 +8,7 @@
 
 - I actively participate in CTF competitions, honing my skills in ***Digital Forensics, Networking, and Malware Reversing***. I also have a foundation knowledge of other categories of the CTF.
 
-- On the development front, I am focusing on Backend Development and exploring the potential of Web3 technologies.
+- On the development front, I am focusing on Backend Development and exploring the potential of Web3 & Cloud technologies.
   
 - Beyond technical expertise, I have gained valuable experience in management too.
 
