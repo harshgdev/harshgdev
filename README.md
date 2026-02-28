@@ -1,12 +1,10 @@
-<h1 align="center">👋 Hey, I'm Harsh Gupta</h1>
+<h1 align="center">👋 Hey, I'm Harsh</h1>
 
-- Undergrad at **IIT Roorkee**  
-- Passionate about **Cloud Native Development**, **DevOps**, and **Web3**  
-- **Open Source Contributor** - LFX Mentorship 2025 Term 2 (Antrea Project, CNCF)  
-- Exploring **backend systems**, **automation**, and **smart contracts**  
-- **CTF Player** - competed in international cybersecurity (ctf) events  
-- Experienced across **Digital Forensics**, **Networking**, and **Malware Reversing**  
-- Active on platforms like **Blue Team Labs Online**, **CyberDefenders**, **HackTheBox**, and **TryHackMe**
+- Undergrad at IIT Roorkee
+- Focused on Security, GenAI Infrastructure & Cloud-Native Systems
+- LFX Mentee ’25 – CNCF Antrea (Open Source Contributor)
+- Build scalable, production-grade backend systems and automation pipelines
+- Hands-on experience in Digital Forensics, Networking & Reverse Engineering
 
 <h2 align="center">🧠 Tech Stack</h2>
 
